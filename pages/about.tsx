@@ -9,7 +9,7 @@ const About: NextPage = () => {
       <Head>
         <title>About</title>
       </Head>
-      <h1 className="m-12 text-3xl">About</h1>
+      <h1 className="m-12 text-3xl prose-xl">About</h1>
       <p className="m-2 mx-16">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod recusandae
         dignissimos aperiam omnis ut sint ratione harum, minima earum
